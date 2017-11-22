@@ -6,8 +6,8 @@ To combat this, I've compiled a list of all possible contiguous deletions from t
 
 Some of my favorites:
 
-PLAYBAE
-PUBAG (Pronounced Poo-Bag)
+PLAYBAE\n
+PUBAG (Pronounced Poo-Bag)\n
 PLAYUNBATTLE
 PLAYNSBADS
 RUNSBADS
