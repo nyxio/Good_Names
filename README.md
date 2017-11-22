@@ -6,9 +6,9 @@ To combat this, I've compiled a list of all possible contiguous deletions from t
 
 Some of my favorites:
 
-PLAYBAE\n
-PUBAG (Pronounced Poo-Bag)\n
-PLAYUNBATTLE
-PLAYNSBADS
-RUNSBADS
-PLAYGROUND
+PLAYBAE</br>
+PUBAG (Pronounced Poo-Bag)</br>
+PLAYUNBATTLE</br>
+PLAYNSBADS</br>
+RUNSBADS</br>
+PLAYGROUND</br>
